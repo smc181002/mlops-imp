@@ -1,0 +1,1 @@
+this is a test text to check whether the code in pre-commit is working or not
