@@ -9,7 +9,7 @@ collections-extended==1.0.3
 configobj==5.0.6
 configshell-fb==1.1.25
 coverage==4.5.1
-cryptography==2.3
+cryptography==3.2
 cupshelpers==1.0
 decorator==4.2.1
 dis==1.0.1
