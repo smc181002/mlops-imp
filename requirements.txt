@@ -30,7 +30,7 @@ kmod==0.1
 langtable==0.0.38
 netifaces==0.10.6
 ntplib==0.3.3
-numpy==1.18.4
+numpy==1.22.0
 ordered-set==2.0.2
 pciutils==2.3.6
 perf==0.1
